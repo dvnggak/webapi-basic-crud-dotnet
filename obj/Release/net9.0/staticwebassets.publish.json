@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CAr6lR9UO1aqXrwP5LgTtV+CMGcNMoDazGblbB91LxM=",
+  "Source": "webApi",
+  "BasePath": "_content/webApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
